@@ -154,10 +154,6 @@ body{
         padding-bottom: 2rem;
     }
 
-    .brand-img-div{
-        margin-left: 11rem;
-    }
-
     .footer{
         display: flex;
         justify-content: space-evenly;
